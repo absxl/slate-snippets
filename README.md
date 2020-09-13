@@ -24,5 +24,4 @@ Pull requests are welcome, you can add as many snippets as you please, this is a
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
