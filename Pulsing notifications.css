@@ -1,0 +1,18 @@
+@keyframes pulse {
+  0% {transform: scale(1);}
+  69% {transform: scale(1.1);}
+  85% {transform: scale(1);}
+}
+
+.modeUnread-1zpFdA .name-3_Dsmg {
+  animation: pulse 4s infinite;
+  padding-left: 10px;
+  color: white;
+}
+.unread-3zKkbm {
+  display: none;
+}
+
+.icon-1_QxNX{
+  display: none;
+}
