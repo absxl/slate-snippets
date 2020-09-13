@@ -25,4 +25,4 @@ Pull requests are welcome, you can add as many snippets as you please, this is a
 Please make sure to update tests as appropriate.
 
 ## Example
-![Example](https://imgur.com/a/1SSIsSf)
+![Example](https://i.imgur.com/s8B4O4b.mp4)
