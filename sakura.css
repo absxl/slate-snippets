@@ -1,0 +1,28 @@
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+
+:root {
+    --toolbar-background-alt:#63c8c4;
+    --toolbar-background:#11d7d8;
+    --toolbar-background-hover:#523b87;
+    --toolbar-search-background:#facfd9;
+    --toolbar-search-border:#facfd9;
+    --toolbar-border:var(--toolbar-background);
+    --toolbar-text-muted:#868686;
+    --toolbar-text-normal:#f0f0f0;
+    --accent:64, 223, 223;
+    --font-family-sans-serif:'Arial', 'Helvetica Neue', sans-serif;
+}
+
+.theme-light,
+html.theme-dark #app-mount .theme-light .root-1gCeng {
+    --background-modifier-hover:#93fcff;
+    --background-modifier-active:#2d2a32;
+    --text-normal:#485e69;
+    --background-light:#f5e7f6; 
+    --text-muted:#535453;
+    --base-border:rgba(255,255,255,0.05);
+    --background-dark:#e4b5ea;
+    --background:#f6e4f9;
+    --guilds-background:#facfd9;
+}
