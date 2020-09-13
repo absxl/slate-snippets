@@ -26,3 +26,14 @@ Please make sure to update tests as appropriate.
 
 ## Example
 https://imgur.com/HDLPsp8
+
+## Sakura
+(Just light mode)
+![Sakura](https://i.imgur.com/WZmuPPm.png)
+
+## Spotify 
+(Just dark mode)
+![Spotify](https://i.imgur.com/TMteTTK.png)
+
+# Pulsing Notifications
+![Pulsing Notifications](https://i.imgur.com/eWIxex7.gif)
