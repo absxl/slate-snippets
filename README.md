@@ -15,9 +15,7 @@ Copy and paste either in the slate.theme.css in the Betterdiscord/themes folder:
 or in the Custom CSS section:
 
 ![Custom CSS](https://i.imgur.com/GYGB9e8.png)
-```bash
-pip install foobar
-```
+
 
 
 Pull requests are welcome, you can add as many snippets as you please, this is a public library.
